@@ -22,7 +22,6 @@ export const Button = (props) => {
     },
   };
 
-  console.log("sdcsdv", classes.colors[color]);
   return (
     <div
       className={
